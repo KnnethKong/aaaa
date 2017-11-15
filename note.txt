@@ -1,4 +1,10 @@
 first----2017-11-15  11:09
 local----2017-11-15  11:10
 onlin :  first----2017-11-15  11:09
+<<<<<<< HEAD
 kxf-5
+=======
+public void print(){
+String str="sdes";
+}
+>>>>>>> 1bee730d54f5b5efb2e9b2641d6ff73f42cfa607
